@@ -1,9 +1,7 @@
 QIIME 16s Tutorial - DiRuggiero Lab
 ===================
 
-This will be a brief tutorial describing the basics of analyzing 16S data in QIIME
-
-[TOC]
+This will be a brief tutorial describing the basics of analyzing 16S data in QIIME.
 
 ----------
 
@@ -20,21 +18,7 @@ This will be a brief tutorial describing the basics of analyzing 16S data in QII
 
 ### Creating a mapping file
 
-The mapping file simply includes information about your sequencing files and their associated metadata. It should be a tab-delimited text file - you can make it in Excel. Our Example mapping file looks like: 
-| \#SampleID                                     | BarcodeSequence                                      | LinkerPrimerSequence  | Location   | Substrate | Description |
-|-----------------------------------------------|------------------------------------------------------|-----------------------|------------|-----------|-------------|
-| \#Mapping file. | Atacama endoliths. |                       |            |           |             |
-| IGNIMBRITE.1.NULL.4                                   | AGGGACGATAAT                                         | YATGCTGCCTCCCGTAGGAGT | Ignimbrite | Rock      | ig1         |
-| IGNIMBRITE.2.NULL.5                                   | ATAGCGGTCTGG                                         | YATGCTGCCTCCCGTAGGAGT | Ignimbrite | Rock      | ig2         |
-| IGNIMBRITE.3.NULL.6                                   | GTTTCTAGAGCT                                         | YATGCTGCCTCCCGTAGGAGT | Ignimbrite | Rock      | ig3         |
-| LUNA.1.NULL.1                                         | GAGAGAATGATC                                         | YATGCTGCCTCCCGTAGGAGT | Calcite    | Rock      | lu1         |
-| LUNA.2.NULL.2                                         | TACGGTATGTCT                                         | YATGCTGCCTCCCGTAGGAGT | Calcite    | Rock      | lu2         |
-| LUNA.3.NULL.3                                         | CGCATGAGGATC                                         | YATGCTGCCTCCCGTAGGAGT | Calcite    | Rock      | lu3         |
-| 007SAT.A5.1.NULL.17                                         | AGTTAGTGCGTC                                         | YATGCTGCCTCCCGTAGGAGT | Soil       | Soil      | so1         |
-| 007SAT.A5.2.NULL.18                                         | ACGTAAATCTCC                                         | YATGCTGCCTCCCGTAGGAGT | Soil       | Soil      | so2         |
-| 007SAT.A10.NULL.16                                         | AGCTATCCACGA                                         | YATGCTGCCTCCCGTAGGAGT | Soil       | Soil      | so3         |
-| 007SAT.C10.NULL.19                                         | AGCGATGCCTTA                                         | YATGCTGCCTCCCGTAGGAGT | Soil       | Soil      | so4         |
-
+The mapping file simply includes information about your sequencing files and their associated metadata. It should be a tab-delimited text file - you can make it in Excel.
 The columns SampleID, BarcodeSequence, LinkerSequence, and Description are required. SampleIDs should refer to the sequence headers used in your FASTA files. You can add other columns of metadata as needed - Description should always be the last column. The mapping file for this example is saved as `example_map.txt`.
 
 ### Picking Open Reference OTUs
@@ -136,7 +120,7 @@ And produce a plot of the PCoA:
 ```
 make_2d_plots.py -i beta_div_coords.txt -m example_map.txt
 ```
-
+![enter image description here](http://i.imgur.com/lHsqtMd.png)
 
 ### Comparing categories
 
