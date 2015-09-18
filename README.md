@@ -28,7 +28,7 @@ For most cases, you'll want to start by creating OTUs for your dataset, and will
 > **Note:** See the [QIIME page](http://qiime.org/tutorials/otu_picking.html) on OTU picking for cases in which you'd want to use closed reference OTU picking. I highly doubt that you'll be in a situation where you have to, which is mainly restricted to comparisons between difference sequencing regions. In the future, we might consider using DADA2 to pick genotypes, not OTUs.
 > 
 
-You'll need to download the [Greengenes database](http://greengenes.secondgenome.com/) of 16S sequences for this step- it is not the most recently updated 16S database, but an update is soon expected and it is considered to be high quality. Make sure usearch version 6.1.554 is also installed in your path. 
+You'll need to download the [Greengenes database](ftp://greengenes.microbio.me/greengenes_release/gg_13_5/gg_13_8_otus.tar.gz) of 16S sequences for this step- it is not the most recently updated 16S database, but an update is soon expected and it is considered to be high quality. Make sure usearch version 6.1.554 is also installed in your path. 
 
 The command to run is below. Remember to use \$PWD - the QIIME notes make a big deal out of using absolute paths here. 
 > **Note:** A common mistake is to forget to run `sudo chmod 777 /usr/bin/usearch` and/or `sudo chmod 777 /usr/bin/usearch61` before trying to run usearch for the first time.
