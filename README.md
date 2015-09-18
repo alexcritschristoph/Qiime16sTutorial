@@ -63,7 +63,7 @@ summarize_taxa.py -i otu_table.biom -L 2 -o ./phylum/
 ```
 
 ```
-plot_taxa_summary.py -i phylum -L phylum -c pie,bar,area -o phylum_charts/
+plot_taxa_summary.py -i phylum/otu_table_L2.txt -l phylum -c pie,bar,area -o phylum_charts/
 ```
 
 Great, our output looks like:
