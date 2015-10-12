@@ -1,6 +1,6 @@
 ## A Tutorial for simple, robust, and modern 16S analysis with QIIME 
 
-Methods of 16S sequencing data analysis have evolved and changed rapidly over the past few years, making most available online tutorials for QIIME out of date with respect to either sequencing technology, QIIME syntax and scripts, or best practices in statistical analysis. On top of that, the sheer *number* of scripts and methods packaged with QIIME (or other microbial analysis pipelines!) might be overwhelming to someone new to the field. This page intends to be an accessible and all-inclusive introduction to how to analyze 16S sequencing data using statistically robust and current methods. I have attempted to base the format and structure of this in a *question / hypothesis* framework, so that each section is primarily concerned with how to find the answer to a particular question or hypothesis about the microbiota you are studying. *Created in the [DiRuggiero lab at Johns Hopkins](http://www.bio.jhu.edu/DiRuggiero/lab/index.html)*
+Methods of 16S sequencing data analysis have evolved and changed rapidly over the past few years, making most available online tutorials for QIIME out of date with respect to either sequencing technology, QIIME syntax and scripts, or best practices in statistical analysis. On top of that, the sheer *number* of scripts and methods packaged with QIIME (or other microbial analysis pipelines!) might be overwhelming to someone new to the field. This page intends to be an accessible and straightforward introduction to how to analyze 16S sequencing data using statistically robust and current methods. I have attempted to base the format and structure of this in a *question / hypothesis* framework, so that each section is primarily concerned with how to find the answer to a particular question or hypothesis about the microbiota you are studying. *Created in the [DiRuggiero lab at Johns Hopkins](http://www.bio.jhu.edu/DiRuggiero/lab/index.html)*
 
 
 > I will cover how to approach and answer the following hypotheses and questions:  
@@ -26,12 +26,12 @@ Methods of 16S sequencing data analysis have evolved and changed rapidly over th
 
 ## Generating Your Data
 
-For the purpose of this tutorial, we'll be using a small dataset of 10 samples of 16S sequences from microbial communities inhabiting 3 different rock/soil environments: Luna (Calcite rock), Ignimbrite rock, and Soil (SAT) environments. All sequences from these samples have been combined into a single seqs.fna FASTA file for our analysis.
+For the purpose of this tutorial, we'll be using a small dataset of 10 samples of 16S sequences from microbial communities inhabiting 3 different rock/soil environments: Luna (Calcite rock), Ignimbrite rock, and Soil (SAT) environments. All sequences from these samples have been combined into a single seqs.fna FASTA file for our analysis. If you want to follow along with the tutorial, you can download this git repo using the button on Github to do so, or by running `git clone`. Example output of all of the functions run in this tutorial are included in the `tutorial_output` folder. 
 
 ### Creating a mapping file
 
 Before analyzing a set of samples, creating a mapping file is useful for the purpose of thinking about experimental design and hypothesis testing. The mapping file for QIIME includes information about your sequencing files and their associated metadata. It should be a tab-delimited text file - you can make it in Excel.
-The columns SampleID, BarcodeSequence, LinkerSequence, and Description are required for each sample. SampleIDs should refer to the sequence headers used in your FASTA files. You can add other columns of metadata as needed - Description should always be the last column. The mapping file for this example is saved as `example_map.txt` in the repository.
+The columns SampleID, BarcodeSequence, LinkerSequence, and Description are required for each sample. SampleIDs should refer to the sequence headers used in your FASTA files. You can add other columns of metadata as needed - Description should always be the last column. The mapping file for this example is saved as `example_map.txt` in this repository as a reference.
 
 ### Picking Open Reference OTUs
 
@@ -93,7 +93,7 @@ We can immediately see the four soil samples have a drastically different compos
 
 **The basic question we will answer**: *How many species are in each sample?*
 
-Alpha diversity describes the diversity of species in a single sample or environment. A straightforward measure of alpha diversity in microbial ecology is the number of OTUs identified per sample, which is similar to a species richness metric. Other metrics used involve the shannon diversity (a measure of entropy),  and chao1, a measure which predicts OTU richness at high depth of sequencing. We also will generate rarefaction plots, because alpha diversity increases with sequencing depth, and thus to compare alpha diversity between two or more samples which may have unequal sequence depth, we plot alpha diversity versus number of included sequences and compare the plotted curves.  The chaos metric should estimate the theoretical asymptotic limit of the curve for OTU richness. To plot alpha rarefaction curves and calculate observed OTUs, shannon, and chao1 metrics, we can just run:
+Alpha diversity describes the diversity of species in a single sample or environment. A straightforward measure of alpha diversity in microbial ecology is the number of OTUs identified per sample, which is similar to a species richness metric. Other metrics used include shannon diversity (a measure of entropy),  and chao1, a measure which predicts OTU richness at high depth of sequencing. We also will generate rarefaction plots, because alpha diversity increases with sequencing depth, and thus to compare alpha diversity between two or more samples which may have unequal sequence depth, we plot alpha diversity versus number of included sequences and compare the plotted curves.  The chaos metric should estimate the theoretical asymptotic limit of the curve for OTU richness. To plot alpha rarefaction curves and calculate observed OTUs, shannon, and chao1 metrics, we can just run:
 
 ```
 cat 'alpha_diversity:metrics observed_species,shannon,chao1' > parameters.txt
