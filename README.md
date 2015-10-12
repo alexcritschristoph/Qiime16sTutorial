@@ -21,7 +21,6 @@ Methods of 16S sequencing data analysis have evolved and changed rapidly over th
  - [Stability of operational taxonomic units: an important but neglected property for analyzing microbial diversity](http://www.microbiomejournal.com/content/3/1/20). He Y, Caporaso JG, Jiang XT, Sheng HF, Huse SM, Rideout JR, Edgar RC, Kopylova E et al. Microbiome 2015, 3:20 (20 May 2015)
  - McMurdie, P. J., & Holmes, S. (2014). [Waste not, want not: why rarefying microbiome data is inadmissible](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003531). PLoS Comput Biol, 10(4), e1003531.
  - [Robust methods for differential abundance analysis in marker gene surveys](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4010126/). JN Paulson, 2013.
- - [DADA2: High resolution sample inference from amplicon data](http://biorxiv.org/content/early/2015/08/06/024034)
  - [PiCRUST](http://picrust.github.io/picrust/)
 
 ## Generating Your Data
