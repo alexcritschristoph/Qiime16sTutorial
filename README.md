@@ -25,11 +25,11 @@ Methods of 16S sequencing data analysis have evolved and changed rapidly over th
 
 ## Generating Your Data
 
-For the purpose of this tutorial, we'll be using a small dataset of 10 samples of 16S sequences from microbial communities inhabiting 3 different rock/soil environments: Luna (Calcite rock), Ignimbrite rock, and Soil (SAT) environments. All sequences from these samples have been combined into a single seqs.fna FASTA file for our analysis. If you want to follow along with the tutorial, you can download this git repo using the button on Github to do so, or by running `git clone`. Example output of all of the functions run in this tutorial are included in the `tutorial_output` folder. 
+For the purpose of this tutorial, we'll be using a small dataset of 10 samples of 16S Illumina sequences from microbial communities inhabiting 3 different rock/soil environments: Luna (Calcite rock), Ignimbrite rock, and Soil (SAT) environments. All sequences from these samples have been combined into a single seqs.fna FASTA file for our analysis. If you want to follow along with the tutorial, you can download this git repo using the button on Github to do so, or by running `git clone`. Example output of all of the functions run in this tutorial are included in the `tutorial_output` folder. 
 
 ### Creating a mapping file
 
-Before analyzing a set of samples, creating a mapping file is useful for the purpose of thinking about experimental design and hypothesis testing. The mapping file for QIIME includes information about your sequencing files and their associated metadata. It should be a tab-delimited text file - you can make it in Excel.
+Before analyzing a set of samples, creating a [mapping file](http://qiime.org/documentation/file_formats.html#mapping-file-overview) is useful for the purpose of thinking about experimental design and hypothesis testing. The mapping file for QIIME includes information about your sequencing files and their associated metadata. It should be a tab-delimited text file - you can make it in Excel.
 The columns SampleID, BarcodeSequence, LinkerSequence, and Description are required for each sample. SampleIDs should refer to the sequence headers used in your FASTA files. You can add other columns of metadata as needed - Description should always be the last column. The mapping file for this example is saved as `example_map.txt` in this repository as a reference.
 
 ### Picking Open Reference OTUs
