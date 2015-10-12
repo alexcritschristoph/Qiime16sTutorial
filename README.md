@@ -1,7 +1,7 @@
 QIIME 16s Tutorial
 ===================
-Methods of 16S sequencing data analysis have evolved and changed rapidly over the past few years, making most available online tutorials for QIIME out of date with respect to either sequencing technology, QIIME syntax and scripts, or best practices in statistical analysis. On top of that, the sheer *number* of scripts and methods packaged with QIIME (or other microbial analysis pipelines!) might be overwhelming to someone new to the field. This page intends to be an accessible and all-inclusive introduction to how to analyze 16S sequencing data using statistically robust and current methods. I have attempted to base the format and structure of this in a *question / hypothesis* framework, so that each section is primarily concerned with how to find the answer to a particular question or hypothesis about the microbiota you are studying.
-*Created in the [DiRuggiero lab at Johns Hopkins](http://www.bio.jhu.edu/DiRuggiero/lab/index.html)*
+Methods of 16S sequencing data analysis have evolved and changed rapidly over the past few years, making most available online tutorials for QIIME out of date with respect to either sequencing technology, QIIME syntax and scripts, or best practices in statistical analysis. On top of that, the sheer *number* of scripts and methods packaged with QIIME (or other microbial analysis pipelines!) might be overwhelming to someone new to the field. This page intends to be an accessible and all-inclusive introduction to how to analyze 16S sequencing data using statistically robust and current methods. I have attempted to base the format and structure of this in a *question / hypothesis* framework, so that each section is primarily concerned with how to find the answer to a particular question or hypothesis about the microbiota you are studying. *Created in the [DiRuggiero lab at Johns Hopkins](http://www.bio.jhu.edu/DiRuggiero/lab/index.html)*
+
 ----------
 
 ## Links and Tools
