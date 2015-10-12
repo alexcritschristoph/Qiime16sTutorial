@@ -271,3 +271,5 @@ The output can be visualized in Cytoscape, as done so below. Each large square i
 
 To further analyze your data, you might want to consider importing your data into the [Phyloseq](http://joey711.github.io/phyloseq/) R package. R offers a consistent environment which supports a large number of independent existing statistical tests, analyses (including Machine Learning), and publication quality graphics engines such as ggplot2. There is an existing tutorial for phyloseq located [here](http://joey711.github.io/phyloseq/tutorials-index).
 
+Additionally, most 16S analyses would not be complete without also analyzing predicted functional content, which can be done with [PICRUSt](http://picrust.github.io/picrust/). 
+
