@@ -76,8 +76,9 @@ Our output looks like:
 
 We can immediately see the four soil samples have a drastically different composition than the rock samples. 
 
-### Calculating alpha diversity
+### Investigating alpha diversity
 
+Alpha diversity describes the diversity of species in a single sample or environment. A straightforward measure of alpha diversity in microbial ecology is the number of OTUs identified per sample, which is similar to a species richness metric. Other metrics used involve the shannon diversity (a measure of entropy),  
 
 > **Note:** I think the only place where you might want to rarefy your data to an even depth is when calculating alpha diversity statistics. 
 
@@ -135,9 +136,3 @@ make_2d_plots.py -i beta_div_coords.txt -m example_map.txt
 ### Comparing categories
 
 ### Correlating with metadata
-
-
-
-
-
-
