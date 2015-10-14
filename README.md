@@ -95,7 +95,7 @@ We can immediately see the four soil samples have a drastically different compos
 Alpha diversity describes the diversity of species in a single sample or environment. A straightforward measure of alpha diversity in microbial ecology is the number of OTUs identified per sample, which is similar to a species richness metric. Other metrics used include shannon diversity (a measure of entropy),  and chao1, a measure which predicts OTU richness at high depth of sequencing. We also will generate rarefaction plots, because alpha diversity increases with sequencing depth, and thus to compare alpha diversity between two or more samples which may have unequal sequence depth, we plot alpha diversity versus number of included sequences and compare the plotted curves.  The chaos metric should estimate the theoretical asymptotic limit of the curve for OTU richness. To plot alpha rarefaction curves and calculate observed OTUs, shannon, and chao1 metrics, we can just run:
 
 ```
-cat 'alpha_diversity:metrics observed_species,shannon,chao1' > parameters.txt
+echo 'alpha_diversity:metrics observed_species,shannon,chao1' > parameters.txt
 alpha_rarefaction.py -i otu_table.biom -o alpha_diversity/ -p ./parameters.txt -m ./example_map.txt
 ```
 
