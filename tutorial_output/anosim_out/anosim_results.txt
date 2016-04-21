@@ -3,5 +3,5 @@ test statistic name	R
 sample size	10
 number of groups	3
 test statistic	1.0
-p-value	0.001
+p-value	0.002
 number of permutations	999

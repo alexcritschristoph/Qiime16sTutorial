@@ -1,0 +1,1428 @@
+New.CleanUp.ReferenceOTU349	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	0.67	3
+New.CleanUp.ReferenceOTU2932	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1626	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloarcula; s__	1.00	1
+New.CleanUp.ReferenceOTU1627	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU1625	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1622	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1623	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU344	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2809	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2808	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3404	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU2801	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2800	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2807	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU4192	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+130864	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__iners	1.00	3
+New.CleanUp.ReferenceOTU908	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+649518	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU1130	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1134	Unassigned	1.00	1
+4355925	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU423	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU2022	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU343	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU342	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+4335437	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3993	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU346	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	2
+4337729	k__Bacteria; p__Chloroflexi; c__TK17; o__mle1-48; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU336	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2110	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2113	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2230	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2232	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+726955	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	1.00	3
+4429835	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU984	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU1906	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1904	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1902	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3372	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1909	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2582	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+112959	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1832	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1830	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+810363	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1839	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+1080641	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__; s__	1.00	3
+236030	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU2341	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU2234	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2343	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+4435518	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Pseudonocardiaceae; g__Pseudonocardia; s__	1.00	3
+112045	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3743	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3746	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3744	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+202381	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3183	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3185	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU907	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+511572	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU903	Unassigned	1.00	1
+4449887	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU2768	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2767	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2764	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2762	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU224	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU225	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Isosphaeraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU226	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU227	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU220	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU221	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU222	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU223	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU1056	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU228	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU229	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1053	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales	0.67	3
+New.CleanUp.ReferenceOTU130	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU647	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU132	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU133	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU134	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU135	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU136	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU137	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU138	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1458	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3569	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1639	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU359	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+1119470	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU829	k__Bacteria; p__Chloroflexi; c__Ellin6529; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1631	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+New.CleanUp.ReferenceOTU351	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2909	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU354	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+New.CleanUp.ReferenceOTU355	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU1637	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1547	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+589372	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU739	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2833	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3419	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3418	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU731	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2839	Unassigned	1.00	1
+4341734	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1127	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU911	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1120	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1123	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+4458184	k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU918	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+240137	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU4038	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+99987	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+818409	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+554361	k__Bacteria; p__Chloroflexi; c__TK10; o__AKYG885; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2160	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2161	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2164	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2166	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU178	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU179	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2223	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2221	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2220	Unassigned	1.00	1
+926122	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU78	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU79	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+1032653	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1930	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3366	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU1936	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1937	Unassigned	1.00	1
+243579	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+4329857	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2355	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2353	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2685	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2681	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2683	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3174	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+4469401	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__Shewanellaceae; g__Shewanella; s__algae	1.00	3
+New.CleanUp.ReferenceOTU310	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3179	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	1
+New.CleanUp.ReferenceOTU311	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU3081	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3082	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3083	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3084	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3088	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2575	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2574	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2570	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU253	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2776	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1781	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU583	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU582	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU585	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU586	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU105	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU104	k__Bacteria; p__Chloroflexi; c__Gitt-GS-136; o__; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU107	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU106	k__Bacteria; p__Chloroflexi; c__TK10; o__B07_WMSP1; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU101	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU100	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU103	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU102	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Isosphaeraceae; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU109	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU108	k__Bacteria; p__Gemmatimonadetes; c__Gemm-3; o__; f__; g__; s__	1.00	3
+226516	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU676	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+1060474	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Kineosporiaceae	0.67	3
+New.CleanUp.ReferenceOTU3553	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1334	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1335	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU674	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1331	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU1333	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1482	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU694	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1338	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU368	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU363	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU362	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU219	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU218	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU749	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU211	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	1.00	3
+New.CleanUp.ReferenceOTU210	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU213	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU212	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU215	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU214	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae; s__GX48	1.00	1
+New.CleanUp.ReferenceOTU741	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU216	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+4333805	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Segetibacter; s__	1.00	3
+New.CleanUp.ReferenceOTU965	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1154	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU969	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU968	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2917	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+104265	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Sporichthyaceae; g__; s__	0.67	3
+250371	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU810	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU4294	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU794	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU797	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3885	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2172	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2171	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2212	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1920	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2218	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU402	Unassigned	1.00	1
+831377	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+255018	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU3317	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3319	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	1.00	3
+637267	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales	1.00	3
+New.CleanUp.ReferenceOTU497	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+1128503	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhodobiaceae	0.67	3
+New.CleanUp.ReferenceOTU3225	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3227	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3220	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3221	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1816	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+4363069	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+New.CleanUp.ReferenceOTU3764	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+New.CleanUp.ReferenceOTU759	k__Bacteria; p__Chloroflexi; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU713	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3163	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU3169	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+1000512	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1506	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+4416518	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2548	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3090	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Isosphaeraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU715	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2780	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2782	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU598	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1033	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU594	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU595	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1037	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU590	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU591	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+1100123	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU98	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	1.00	3
+New.CleanUp.ReferenceOTU99	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU118	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU119	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU112	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU3540	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU110	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU111	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3545	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU117	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales	1.00	3
+New.CleanUp.ReferenceOTU114	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU115	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1495	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1494	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU1497	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1496	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1491	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	1.00	3
+New.CleanUp.ReferenceOTU687	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1493	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1492	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacterium; s__	0.67	3
+New.CleanUp.ReferenceOTU688	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU689	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1499	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1328	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU372	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU374	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+822489	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1430	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	0.67	3
+New.CleanUp.ReferenceOTU758	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__Gemmata; s__	1.00	3
+New.CleanUp.ReferenceOTU3430	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU208	k__Bacteria; p__FBP; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU209	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU206	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU207	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU204	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU205	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU202	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU203	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU752	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales	1.00	3
+New.CleanUp.ReferenceOTU753	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__Ellin6537; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU3514	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1142	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1146	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU978	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU979	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+4359064	k__Bacteria; p__FBP; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2963	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2966	k__Bacteria; p__Chloroflexi; c__TK10; o__AKYG885; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2967	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+65683	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU623	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU617	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1401	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+New.CleanUp.ReferenceOTU1474	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2149	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2144	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU612	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2141	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+166076	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+3230031	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__Adhaeribacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2201	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2207	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1537	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1950	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1955	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1957	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1532	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU627	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1533	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+1139892	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__Shewanellaceae; g__Shewanella; s__algae	1.00	3
+New.CleanUp.ReferenceOTU3306	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU3305	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2374	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2376	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2371	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2370	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU147	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+1032520	k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]; o__RB41; f__; g__; s__	1.00	3
+172222	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3239	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3238	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3235	k__Bacteria; p__Chloroflexi; c__TK10; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3234	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3233	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3232	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU90	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU662	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3543	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU93	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU116	Unassigned	1.00	1
+537516	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__C111; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3157	k__Bacteria; p__Chloroflexi; c__TK10; o__AKYG885; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU97	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+4353338	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Sporichthyaceae; g__; s__	0.67	3
+1111024	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1324	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1323	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+New.CleanUp.ReferenceOTU1490	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+New.CleanUp.ReferenceOTU2550	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+815453	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU685	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2797	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2792	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1007	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU560	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU1000	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU569	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU169	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	0.67	3
+982282	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU167	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU166	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU165	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__TK10; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU164	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU163	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU162	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU161	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU160	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1310	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1316	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1314	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1315	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU1318	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacterium; s__	1.00	3
+New.CleanUp.ReferenceOTU306	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU305	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+New.CleanUp.ReferenceOTU304	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU303	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU301	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU271	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	0.67	3
+New.CleanUp.ReferenceOTU1796	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1794	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU764	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1790	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+562741	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU769	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3449	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1245	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	0.67	3
+111050	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU274	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU789	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1775	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU781	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1777	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Deinococcaceae; g__Deinococcus; s__	1.00	3
+New.CleanUp.ReferenceOTU1771	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU948	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1176	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU412	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU942	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU945	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU415	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU414	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2970	k__Bacteria; p__Chloroflexi; c__TK17; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2974	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU633	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU200	Unassigned	1.00	1
+1106797	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU201	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU952	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+2020092	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU2159	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2158	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2150	k__Bacteria; p__Cyanobacteria; c__; o__; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2153	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2155	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2728	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1949	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3848	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1941	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1947	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1946	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3842	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1669	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU971	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+1114113	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+570520	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+4332665	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Sporichthyaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU871	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2302	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales	1.00	2
+New.CleanUp.ReferenceOTU2306	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Intrasporangiaceae	1.00	3
+New.CleanUp.ReferenceOTU2307	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3069	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+146122	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3207	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3204	Unassigned	1.00	1
+4467747	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae	0.67	3
+New.CleanUp.ReferenceOTU3140	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU2414	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2417	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2411	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2418	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+4024547	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU2527	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae	0.67	3
+New.CleanUp.ReferenceOTU2528	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU4254	k__Bacteria; p__Chloroflexi; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU570	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU572	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1543	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1541	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU577	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU578	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1018	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU820	k__Bacteria; p__Chloroflexi; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1548	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+1120543	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+748601	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Nitrososphaerales; f__Nitrososphaeraceae; g__Candidatus Nitrososphaera; s__gargensis	1.00	3
+New.CleanUp.ReferenceOTU2635	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU72	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+New.CleanUp.ReferenceOTU73	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU70	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU71	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU76	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU77	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU74	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU75	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+New.CleanUp.ReferenceOTU174	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU175	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae	0.67	3
+New.CleanUp.ReferenceOTU176	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU177	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU170	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU171	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU172	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU173	k__Bacteria; p__Cyanobacteria	1.00	3
+New.CleanUp.ReferenceOTU314	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU317	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1309	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU1308	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1307	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU318	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU319	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU776	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1783	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1786	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU779	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+825937	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2898	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU791	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU792	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1763	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1762	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1760	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU408	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU959	k__Bacteria; p__Chloroflexi; c__TK10; o__AKYG885; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU956	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU957	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1163	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1162	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU404	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU953	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU407	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU2947	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU4076	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2099	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2092	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2097	Unassigned	1.00	1
+162202	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+4371107	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Patulibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU4102	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU3921	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3926	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3928	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3329	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1977	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1974	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1975	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1973	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1971	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1978	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1356	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+3974550	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__Shewanellaceae; g__Shewanella; s__algae	1.00	3
+New.CleanUp.ReferenceOTU1355	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU637	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2318	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2313	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2312	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU638	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__Gemmata; s__	1.00	3
+New.CleanUp.ReferenceOTU3217	k__Bacteria; p__Chloroflexi; c__TK10; o__; f__; g__; s__	1.00	3
+2660671	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU183	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU182	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__Rhodocytophaga; s__	1.00	3
+New.CleanUp.ReferenceOTU1451	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU131	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3131	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU644	k__Bacteria; p__Chloroflexi; c__; o__; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU642	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1998	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1456	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1990	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2405	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU830	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2400	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+401798	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2409	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2408	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1716	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU884	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2532	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2530	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2536	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3044	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+673883	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+263308	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1570	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	1.00	3
+New.CleanUp.ReferenceOTU546	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1577	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU543	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU542	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1579	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU549	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU548	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2628	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__; s__	1.00	3
+4417388	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinosynnemataceae; g__Saccharothrix; s__	0.67	3
+New.CleanUp.ReferenceOTU2622	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU141	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU140	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU143	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU62	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU145	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU64	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3594	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU146	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU149	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Acidisphaera; s__	0.67	3
+New.CleanUp.ReferenceOTU68	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1379	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	2
+224486	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1372	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1374	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+New.CleanUp.ReferenceOTU1376	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU3665	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+New.CleanUp.ReferenceOTU3468	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3463	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1758	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1207	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1203	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1750	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU2888	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1195	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1196	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	2
+114146	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU438	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	0.67	3
+New.CleanUp.ReferenceOTU431	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU433	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU432	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU329	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU328	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU2957	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2956	k__Bacteria	1.00	2
+New.CleanUp.ReferenceOTU1681	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU893	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1685	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU3892	k__Bacteria; p__FBP; c__; o__; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2089	Unassigned	1.00	1
+1123837	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU827	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2082	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2087	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2085	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU356	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+219818	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+702683	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+New.CleanUp.ReferenceOTU3915	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Frankiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3868	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU1962	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1964	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU735	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+4387971	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae; g__Halomonas; s__	1.00	3
+New.CleanUp.ReferenceOTU2322	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2321	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2328	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+633056	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+549954	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3265	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3266	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+4463047	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3129	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3121	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU859	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+4333666	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Segetibacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1989	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1988	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+4413720	k__Bacteria; p__Chloroflexi; c__Ellin6529; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1983	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1981	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1980	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2432	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2431	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU852	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3040	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2439	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3690	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU3694	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3696	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	1
+1119031	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU856	k__Bacteria; p__Chloroflexi; c__TK10; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3055	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2506	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+3334378	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3588	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+1115272	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU3581	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+New.CleanUp.ReferenceOTU3583	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU2612	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU54	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	1.00	2
+New.CleanUp.ReferenceOTU55	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU56	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU57	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU50	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU51	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	1.00	3
+New.CleanUp.ReferenceOTU52	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU53	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU58	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU59	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU158	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU159	k__Bacteria; p__Chloroflexi; c__TK10; o__AKYG885; f__; g__; s__	1.00	3
+4371349	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+4356578	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1368	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1363	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1362	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU1367	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1366	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1365	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1364	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU559	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1569	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+New.CleanUp.ReferenceOTU1568	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU552	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1561	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU557	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU555	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU3470	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1741	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1574	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+3674693	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU1749	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1218	k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]; o__RB41; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1186	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU420	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU421	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU424	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1189	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU338	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1693	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU335	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU333	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU330	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1694	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2988	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+4378646	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2985	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+145053	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__; s__	0.67	3
+4370431	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+4433511	k__Bacteria; p__Chloroflexi; c__TK10; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU4128	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU4122	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+4470065	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU2186	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2184	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2188	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2189	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3900	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU61	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU60	Unassigned	1.00	1
+653788	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU63	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU142	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU65	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+806406	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU144	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3877	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3876	k__Bacteria; p__Cyanobacteria; c__; o__; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU67	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3595	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3878	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU69	k__Bacteria; p__Chloroflexi; c__Ellin6529; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU148	Unassigned	1.00	1
+909173	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2055	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2056	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2051	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+837092	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2191	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2429	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3111	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU2424	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+805062	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+2025460	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+107234	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Nitrososphaerales; f__Nitrososphaeraceae; g__Candidatus Nitrososphaera; s__SCA1145	0.67	3
+809392	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+3505032	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__Shewanellaceae; g__Shewanella; s__algae	0.67	3
+939546	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+4439227	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhodobiaceae; g__Afifella; s__	1.00	3
+New.CleanUp.ReferenceOTU3063	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3060	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+New.CleanUp.ReferenceOTU3061	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU3067	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3065	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2512	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2516	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU49	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU48	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU4265	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU4267	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU43	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	0.67	3
+New.CleanUp.ReferenceOTU42	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU41	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU40	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	1
+New.CleanUp.ReferenceOTU47	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU46	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU45	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU44	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2601	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU664	k__Bacteria; p__Chloroflexi; c__Ellin6529; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1341	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloarcula; s__	0.67	3
+New.CleanUp.ReferenceOTU1424	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU1354	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU630	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1420	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU188	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1422	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU1351	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU185	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU184	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU187	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU186	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU181	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales	1.00	3
+New.CleanUp.ReferenceOTU180	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+New.CleanUp.ReferenceOTU1358	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+New.CleanUp.ReferenceOTU1359	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1518	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1340	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1510	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU526	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1513	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU523	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU522	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1516	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU3645	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+217548	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+4461722	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae; g__Halomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1739	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+New.CleanUp.ReferenceOTU457	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU456	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU987	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+New.CleanUp.ReferenceOTU453	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU983	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU450	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+1106203	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Frankiaceae; g__; s__	1.00	3
+704830	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Geodermatophilus; s__	0.67	3
+New.CleanUp.ReferenceOTU458	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1342	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2386	Unassigned	1.00	1
+266995	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+974497	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2389	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU4041	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU4047	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2994	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2997	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales	1.00	3
+New.CleanUp.ReferenceOTU1649	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales	1.00	3
+New.CleanUp.ReferenceOTU2992	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Patulibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1644	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1645	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU851	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Isosphaeraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2999	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1206	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1643	Unassigned	1.00	1
+1143172	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU189	Unassigned	1.00	1
+4391816	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2195	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1346	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+4325519	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+510184	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+4371629	k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1197	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3804	Unassigned	1.00	1
+4452899	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU6	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU7	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	0.67	3
+New.CleanUp.ReferenceOTU4	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU5	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	1.00	1
+New.CleanUp.ReferenceOTU2	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU3	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU0	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU14	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU8	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU9	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+4004072	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Flammeovirgaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2045	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2040	Unassigned	1.00	1
+203418	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3248	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+587534	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU3243	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3240	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	2
+817451	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+New.CleanUp.ReferenceOTU2810	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+764838	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3101	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3100	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3102	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2451	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+809239	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+190663	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Kineosporiaceae	0.67	3
+New.CleanUp.ReferenceOTU2298	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1450	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+1039041	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Sporichthyaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU113	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1565	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU38	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU39	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU36	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	1.00	3
+New.CleanUp.ReferenceOTU37	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU34	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU35	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU32	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloarcula; s__	1.00	3
+New.CleanUp.ReferenceOTU33	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU30	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU31	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU449	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2679	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+4301663	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU620	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1436	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU190	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU191	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU196	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU197	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU194	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU195	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1349	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU629	k__Bacteria; p__Chloroflexi; c__TK10; o__AKYG885; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU198	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU199	Unassigned	1.00	1
+256447	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1439	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1508	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacterium; s__	0.67	3
+New.CleanUp.ReferenceOTU534	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+New.CleanUp.ReferenceOTU1502	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU2707	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1507	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+New.CleanUp.ReferenceOTU531	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU533	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU3497	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3493	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU3499	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3498	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU1726	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1728	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU445	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU447	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU440	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU2851	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU443	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU448	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2859	Unassigned	1.00	1
+1081618	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Patulibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3360	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1659	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1657	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU842	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__; s__	1.00	3
+221734	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Segetibacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1653	k__Bacteria; p__Cyanobacteria; c__; o__; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1650	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	2
+New.CleanUp.ReferenceOTU999	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1555	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU993	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1352	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU565	k__Bacteria; p__Cyanobacteria; c__; o__; f__; g__; s__	0.67	3
+799959	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Patulibacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2595	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+512952	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	1.00	3
+773538	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+4317201	k__Bacteria; p__Armatimonadetes; c__0319-6E2; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU514	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2457	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU513	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1527	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU2899	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	0.67	3
+New.CleanUp.ReferenceOTU2078	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2072	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2070	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2077	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+808533	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU287	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+675211	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+4482713	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU89	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+4391116	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU168	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2445	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+2855257	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales	1.00	3
+New.CleanUp.ReferenceOTU86	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU85	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU84	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU83	k__Bacteria; p__FBP; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU82	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU81	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU80	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae	0.67	3
+3077248	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhodobiaceae; g__Afifella; s__	1.00	3
+New.CleanUp.ReferenceOTU3009	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3004	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+4310319	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Pseudonocardiaceae; g__; s__	0.67	3
+4465330	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Kaistobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1868	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1865	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1867	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1860	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1861	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+1639771	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU29	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU28	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+4483596	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae; g__Halomonas; s__	1.00	3
+New.CleanUp.ReferenceOTU25	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU24	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU27	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+New.CleanUp.ReferenceOTU26	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	1.00	3
+New.CleanUp.ReferenceOTU21	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU20	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU23	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+New.CleanUp.ReferenceOTU22	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Segetibacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2666	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU269	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU2668	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3714	Unassigned	1.00	1
+4325081	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Kineosporiaceae	0.67	3
+828826	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1400	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	0.67	3
+New.CleanUp.ReferenceOTU616	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1406	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	2
+New.CleanUp.ReferenceOTU613	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Spirulinaceae; g__Spirulina; s__	0.67	3
+New.CleanUp.ReferenceOTU1405	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+New.CleanUp.ReferenceOTU1409	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU618	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Patulibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU3621	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU505	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU504	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU509	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+4465158	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2710	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU291	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU290	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU293	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU295	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU297	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU296	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU937	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+4474485	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__	0.67	3
+New.CleanUp.ReferenceOTU1085	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1082	Unassigned	1.00	1
+1119224	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2843	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2840	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU273	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU272	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1714	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU270	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum	1.00	2
+New.CleanUp.ReferenceOTU276	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU275	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1247	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU139	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU3531	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3527	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+1061145	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU601	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU879	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae; g__Halomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1662	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1666	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU873	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU605	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU840	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU4157	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU470	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU473	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU472	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales	1.00	3
+New.CleanUp.ReferenceOTU475	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU474	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	0.67	3
+New.CleanUp.ReferenceOTU476	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1398	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	1.00	3
+New.CleanUp.ReferenceOTU1390	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+New.CleanUp.ReferenceOTU1396	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1395	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+4455576	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__; s__	0.67	3
+559753	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+4313769	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU66	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+11439	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae	1.00	3
+766214	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Sporichthyaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1677	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+341142	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Segetibacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2065	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2060	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2069	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2068	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1891	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU780	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU1895	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1897	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU786	Unassigned	1.00	1
+128300	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	0.67	3
+254635	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Frankiaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2478	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+1104521	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2271	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2273	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2279	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU123	k__Bacteria; p__Chloroflexi; c__Gitt-GS-136; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2380	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2385	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1879	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	1
+New.CleanUp.ReferenceOTU2387	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1876	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1875	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1874	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+828305	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	1.00	1
+New.CleanUp.ReferenceOTU10	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacterium; s__	1.00	3
+New.CleanUp.ReferenceOTU11	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU12	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU13	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	1.00	3
+216191	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU15	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloarcula; s__	0.67	3
+New.CleanUp.ReferenceOTU16	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU17	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU18	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU19	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+New.CleanUp.ReferenceOTU120	Unassigned	1.00	1
+256163	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2497	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2493	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3706	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3702	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2657	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2654	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2655	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2651	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU4168	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU517	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1523	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU515	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+4349733	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	0.67	3
+4349732	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+4349731	k__Bacteria; p__Actinobacteria; c__Nitriliruptoria; o__Euzebyales; f__Euzebyaceae; g__Euzebya; s__	1.00	3
+New.CleanUp.ReferenceOTU1529	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU3638	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU518	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU286	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	1.00	3
+New.CleanUp.ReferenceOTU2577	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU284	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU280	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU288	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU289	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU1098	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1092	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU2872	Unassigned	1.00	1
+4452900	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2871	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2874	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1701	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1702	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU264	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU265	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1707	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU267	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU609	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU1419	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU1415	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1414	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1416	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1411	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU1410	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1413	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1412	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU4092	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+818665	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+813104	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU866	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1673	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1672	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1242	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+544733	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU468	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU467	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU460	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU1385	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1387	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1386	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+4402892	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1383	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1388	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+4373812	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+2053922	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU1431	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU192	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU193	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	1
+New.CleanUp.ReferenceOTU1435	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2010	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2011	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2013	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2016	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2017	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU2019	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1432	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU626	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+1822603	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2121	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2469	Unassigned	1.00	1
+4480958	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__Adhaeribacter; s__	1.00	3
+4458424	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__; s__	1.00	3
+63126	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2267	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1503	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU3027	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+864395	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU530	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+168709	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU3658	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+86556	k__Bacteria; p__[Thermi]; c__Deinococci; o__Deinococcales; f__Trueperaceae; g__Truepera; s__	1.00	3
+New.CleanUp.ReferenceOTU2390	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2394	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1843	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2398	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	1.00	1
+New.CleanUp.ReferenceOTU1844	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2488	k__Bacteria; p__Cyanobacteria; c__; o__; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2487	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2486	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2485	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2483	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2649	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2648	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3731	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+4360288	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2641	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2647	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2646	Unassigned	1.00	1
+1110235	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU698	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2735	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU695	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3607	Unassigned	1.00	1
+114830	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1065	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+543914	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU691	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Patulibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU702	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU707	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU704	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU255	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU254	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU251	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Conexibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU250	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+446213	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU252	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3519	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU679	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU1460	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1461	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1463	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1464	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU671	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU3515	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	0.67	3
+New.CleanUp.ReferenceOTU388	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU386	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU385	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU384	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU382	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU380	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1604	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1605	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU1607	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU2853	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU492	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU490	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU2869	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2868	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU495	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU494	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU498	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU2860	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2862	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU928	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1119	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria	1.00	3
+New.CleanUp.ReferenceOTU1114	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU1116	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	2
+New.CleanUp.ReferenceOTU926	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1112	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+151936	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+4362620	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Nitrososphaerales; f__Nitrososphaeraceae; g__Candidatus Nitrososphaera; s__SCA1145	0.67	3
+4714	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1288	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU745	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	2
+2036172	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	1.00	3
+947475	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU217	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+4414336	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2000	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2007	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2006	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2005	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU324	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU88	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3281	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU3287	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+235943	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU87	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+4362403	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU3643	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2701	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+568698	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2134	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2130	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__; f__; g__; s__	1.00	1
+1131309	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__AKYG1722; f__; g__; s__	1.00	3
+3734418	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales	1.00	3
+New.CleanUp.ReferenceOTU2253	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2251	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2256	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2259	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3352	Unassigned	1.00	1
+831877	k__Bacteria; p__Chloroflexi; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1855	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__Modestobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1854	Unassigned	1.00	1
+808657	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1853	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU1859	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+1113193	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+826651	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+4481011	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Sporichthyaceae; g__; s__	0.67	3
+4374807	k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__	1.00	3
+2739096	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+1107148	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__; s__	1.00	3
+1110437	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+47411	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+3862609	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU1070	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1078	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU242	k__Bacteria; p__Actinobacteria; c__MB-A2-108; o__0319-7L14; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU243	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU240	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU241	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU246	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU247	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU244	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU245	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halogeometricum; s__	0.67	3
+New.CleanUp.ReferenceOTU1279	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU248	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	0.67	3
+New.CleanUp.ReferenceOTU249	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1479	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU3502	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1473	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	0.67	3
+New.CleanUp.ReferenceOTU665	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1471	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU667	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	1.00	3
+New.CleanUp.ReferenceOTU1477	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1475	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU663	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU398	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU399	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU396	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU397	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU390	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU391	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU392	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU804	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1612	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU801	Unassigned	1.00	1
+4432889	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Intrasporangiaceae	1.00	3
+New.CleanUp.ReferenceOTU2926	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	1.00	3
+New.CleanUp.ReferenceOTU2920	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2818	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU482	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU483	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU485	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU486	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU487	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+New.CleanUp.ReferenceOTU488	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU489	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorhabdus; s__	0.67	3
+New.CleanUp.ReferenceOTU2816	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU939	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU935	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1100	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU156	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU157	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU154	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU155	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloarcula; s__	1.00	3
+New.CleanUp.ReferenceOTU1297	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU152	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU153	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU150	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Geodermatophilaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2037	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU151	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2032	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2033	k__Bacteria; p__FBP; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2030	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3520	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+3956477	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	1.00	3
+274150	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+4482374	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__	0.67	3
+New.CleanUp.ReferenceOTU2104	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU2247	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2241	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU2243	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__; g__; s__	0.67	3
+637301	k__Bacteria; p__Armatimonadetes; c__Armatimonadia; o__Armatimonadales; f__Armatimonadaceae; g__; s__	1.00	2
+4448321	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU236	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU91	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU235	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1917	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1911	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU233	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU232	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	0.67	3
+New.CleanUp.ReferenceOTU92	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	2
+New.CleanUp.ReferenceOTU230	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+824845	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__; g__; s__	0.67	3
+353649	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+554719	k__Bacteria; p__Chloroflexi; c__[Thermobacula]; o__[Thermobaculales]; f__[Thermobaculaceae]; g__Thermobaculum; s__	1.00	2
+New.CleanUp.ReferenceOTU1826	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+4333705	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__	0.67	3
+4466061	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU651	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU94	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3
+New.CleanUp.ReferenceOTU122	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU121	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+811403	k__Bacteria; p__Chloroflexi; c__; o__; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1445	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+833324	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__Rubrobacter; s__	1.00	3
+New.CleanUp.ReferenceOTU127	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+779391	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+263762	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halolamina; s__	1.00	3
+New.CleanUp.ReferenceOTU95	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halobacteriaceae	0.67	3
+2147801	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU125	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU124	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1321	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__AKIW781; f__; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU3677	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__; f__; g__; s__	1.00	3
+4435634	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halosimplex; s__carlsbadense	1.00	3
+4350280	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU3197	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU3194	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU3195	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria	1.00	3
+New.CleanUp.ReferenceOTU96	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	2
+4136360	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU1320	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU2752	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU2751	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU2755	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae	0.67	3
+823523	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU2759	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU1043	k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1592	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU1593	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1594	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	0.67	3
+New.CleanUp.ReferenceOTU237	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU724	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__; s__	1.00	1
+New.CleanUp.ReferenceOTU727	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU234	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU721	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU720	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales; f__Patulibacteraceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU231	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Haloterrigena; s__	1.00	3
+New.CleanUp.ReferenceOTU722	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU728	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU239	k__Bacteria; p__Cyanobacteria; c__Oscillatoriophycideae; o__Chroococcales; f__Xenococcaceae; g__Chroococcidiopsis; s__	0.67	3
+New.CleanUp.ReferenceOTU238	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU1446	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU1447	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1444	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae	1.00	3
+New.CleanUp.ReferenceOTU652	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU1442	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Halorubrum; s__	1.00	3
+New.CleanUp.ReferenceOTU126	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__; s__	0.67	3
+New.CleanUp.ReferenceOTU657	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Pseudonocardiaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU656	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU658	Unassigned	1.00	1
+New.CleanUp.ReferenceOTU129	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+New.CleanUp.ReferenceOTU128	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Synechococcales; f__Acaryochloridaceae; g__Acaryochloris; s__	0.67	3
+New.CleanUp.ReferenceOTU1448	k__Archaea; p__Euryarchaeota; c__Halobacteria; o__Halobacteriales; f__Halobacteriaceae; g__Natronomonas; s__	0.67	3

@@ -1,0 +1,139 @@
+Logging started at 17:11:23 on 21 Apr 2016
+QIIME version: 1.9.1
+
+qiime_config values:
+pick_otus_reference_seqs_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+sc_queue	all.q
+pynast_template_alignment_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set_aligned/85_otus.pynast.fasta
+cluster_jobs_fp	start_parallel_jobs.py
+assign_taxonomy_reference_seqs_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+torque_queue	friendlyq
+jobs_to_start	1
+denoiser_min_per_core	50
+assign_taxonomy_id_to_taxonomy_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+temp_dir	/tmp/
+blastall_fp	blastall
+seconds_to_sleep	60
+
+parameter file values:
+parallel:jobs_to_start	1
+pick_otus:enable_rev_strand_match	True
+
+Input file md5 sums:
+/Users/DiRuggiero/Documents/Qiime16sTutorial/seqs.fna: a54208c6bcc164d403a9079996a9bb26
+/Users/DiRuggiero/Documents/Qiime16sTutorial/97_otus.fasta: 50b2269712b3738afb41892bed936c29
+
+Forcing --suppress_new_clusters as this is reference-based OTU picking.
+
+Executing commands.
+
+# Pick Reference OTUs command 
+pick_otus.py -i /Users/DiRuggiero/Documents/Qiime16sTutorial/seqs.fna -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus -r /Users/DiRuggiero/Documents/Qiime16sTutorial/97_otus.fasta -m usearch61_ref --enable_rev_strand_match --suppress_new_clusters
+
+Stdout:
+
+Stderr:
+
+# Generate full failures fasta file command 
+filter_fasta.py -f /Users/DiRuggiero/Documents/Qiime16sTutorial/seqs.fna -s /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus/seqs_failures.txt -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus/failures.fasta
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Pick rep set command 
+pick_rep_set.py -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus/seqs_otus.txt -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus/step1_rep_set.fna -f /Users/DiRuggiero/Documents/Qiime16sTutorial/seqs.fna
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Pick de novo OTUs on step1 failures command 
+pick_otus.py -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus/failures.fasta -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step4_otus/ -m usearch61  --denovo_otu_id_prefix New.CleanUp.ReferenceOTU --enable_rev_strand_match
+
+Stdout:
+
+Stderr:
+
+# Merge OTU maps command 
+cat /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus/seqs_otus.txt  /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step4_otus//failures_otus.txt > /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//final_otu_map.txt
+
+Stdout:
+
+Stderr:
+
+# Pick representative set for subsampled failures command 
+pick_rep_set.py -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step4_otus//failures_otus.txt -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step4_otus//step4_rep_set.fna -f /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//step1_otus/failures.fasta
+
+Stdout:
+
+Stderr:
+
+# Filter singletons from the otu map using API 
+python -c "import qiime; qiime.filter.filter_otus_from_otu_map('/Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output/final_otu_map.txt', '/Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output/final_otu_map_mc2.txt', '2')"
+
+# Write non-singleton otus representative sequences from step1 to the final rep set file: /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//rep_set.fna
+
+# Copy the full input refseqs file to the new refseq file
+cp /Users/DiRuggiero/Documents/Qiime16sTutorial/97_otus.fasta /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//new_refseqs.fna
+
+# Write non-singleton otus representative sequences from step 4 to the final representative set and the new reference set (/Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//rep_set.fna and /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//new_refseqs.fna respectively)
+
+Executing commands.
+
+# Make the otu table command 
+make_otu_table.py -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//final_otu_map_mc2.txt -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//otu_table_mc2.biom
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Assign taxonomy command 
+assign_taxonomy.py -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//uclust_assigned_taxonomy -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//rep_set.fna 
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Add taxa to OTU table command 
+biom add-metadata -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//otu_table_mc2.biom --observation-metadata-fp /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//uclust_assigned_taxonomy/rep_set_tax_assignments.txt -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//otu_table_mc2_w_tax.biom --sc-separated taxonomy --observation-header OTUID,taxonomy
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Align sequences command 
+align_seqs.py -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//rep_set.fna -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//pynast_aligned_seqs 
+
+Stdout:
+
+Stderr:
+
+# Filter alignment command 
+filter_alignment.py -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//pynast_aligned_seqs -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//pynast_aligned_seqs/rep_set_aligned.fasta 
+
+Stdout:
+
+Stderr:
+
+# Build phylogenetic tree command 
+make_phylogeny.py -i /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//pynast_aligned_seqs/rep_set_aligned_pfiltered.fasta -o /Users/DiRuggiero/Documents/Qiime16sTutorial/otu_output//rep_set.tre 
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+
+Logging stopped at 17:14:51 on 21 Apr 2016

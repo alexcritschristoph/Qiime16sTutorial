@@ -1,0 +1,64 @@
+Logging started at 17:15:45 on 21 Apr 2016
+QIIME version: 1.9.1
+
+qiime_config values:
+pick_otus_reference_seqs_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+sc_queue	all.q
+pynast_template_alignment_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set_aligned/85_otus.pynast.fasta
+cluster_jobs_fp	start_parallel_jobs.py
+assign_taxonomy_reference_seqs_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+torque_queue	friendlyq
+jobs_to_start	1
+denoiser_min_per_core	50
+assign_taxonomy_id_to_taxonomy_fp	/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+temp_dir	/tmp/
+blastall_fp	blastall
+seconds_to_sleep	60
+
+parameter file values:
+alpha_diversity:metrics	observed_species,shannon,chao1
+parallel:jobs_to_start	1
+
+Input file md5 sums:
+otu_table.biom: a0519e652382aff687027d187a3aa606
+./example_map.txt: 7b0a671761f4d25b1f14b4ccd15b1d4f
+
+Executing commands.
+
+# Alpha rarefaction command 
+multiple_rarefactions.py -i otu_table.biom -m 10 -x 4647 -s 463 -o alpha_diversity//rarefaction/ 
+
+Stdout:
+
+Stderr:
+
+# Alpha diversity on rarefied OTU tables command 
+alpha_diversity.py -i alpha_diversity//rarefaction/ -o alpha_diversity//alpha_div/ --metrics observed_species,shannon,chao1
+
+Stdout:
+
+Stderr:
+
+# Collate alpha command 
+collate_alpha.py -i alpha_diversity//alpha_div/ -o alpha_diversity//alpha_div_collated/ 
+
+Stdout:
+
+Stderr:
+
+# Removing intermediate files command 
+rm -r alpha_diversity//rarefaction/ alpha_diversity//alpha_div/
+
+Stdout:
+
+Stderr:
+
+# Rarefaction plot: All metrics command 
+make_rarefaction_plots.py -i alpha_diversity//alpha_div_collated/ -m ./example_map.txt -o alpha_diversity//alpha_rarefaction_plots/ 
+
+Stdout:
+
+Stderr:
+
+
+Logging stopped at 17:16:06 on 21 Apr 2016
