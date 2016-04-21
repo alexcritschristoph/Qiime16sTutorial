@@ -35,22 +35,38 @@ The columns SampleID, BarcodeSequence, LinkerSequence, and Description are requi
 ### Picking Open Reference OTUs
 
 The initial step we will perform in our analysis is OTU-picking. There are several OTU picking strategies in QIIME, and for almost all single-experiment analyses, it would be best to use [open reference OTU picking](http://qiime.org/scripts/pick_open_reference_otus.html). OTUs are Operating Taxonomic Units, clusters of sequences that are at least X% identical, where X is generally 97%. OTUs are not a perfect method of describing the data, but are a very widely used one. "Open reference" picking will use a database of known 16S genes to create OTU clusters while also allowing for the formation of OTUs which have sequences sufficiently different from the references.
- 
+
 > **Note:** Why do we use open-reference picking? See [Stability of operational taxonomic units: an important but neglected property for analyzing microbial diversity](http://www.microbiomejournal.com/content/3/1/20). Also check out the [QIIME page](http://qiime.org/tutorials/otu_picking.html) on OTU picking for cases in which you'd want to use closed reference OTU picking. I highly doubt that you'll be in a situation where you have to, which is mainly restricted to comparisons between difference sequencing regions.
 > 
 
-You'll need to download the [GreenGenes](http://greengenes.secondgenome.com/) database of 16S sequences for this step, which is the database of reference 16S sequences we'll use to assign taxonomy. You'll need the file `97_otus.fasta`, which functions as a FASTA file of all reference sequences with known taxonomy. Because as of September 2015 the latest GreenGenes is from 2013 (there may be an update soon), if you are interested in specific rare taxa discovered since 2013, you may want to add 16S sequences from those organisms to the `97_otus.fasta` file manually. Also, make sure [usearch](http://www.drive5.com/usearch/download.html) **version 6.1.554** is also installed in your path, by requesting a download from the link above and moving the executable to `/usr/bin`. Another version may cause an error.
+You'll need to download the [GreenGenes](http://greengenes.secondgenome.com/) database of 16S sequences for this step, which is the database of reference 16S sequences we'll use to assign taxonomy. You'll need the file `97_otus.fasta`, which functions as a FASTA file of all reference sequences with known taxonomy. Because as of September 2015 the latest GreenGenes is from 2013 (there may be an update soon), if you are interested in specific rare taxa discovered since 2013, you may want to add 16S sequences from those organisms to the `97_otus.fasta` file manually. 
 
-The command to run is below. Remember to use \$PWD - the QIIME notes make a big deal out of using absolute paths here. 
+To actually perform the OTU picking, you will need either usearch or vsearch. While usearch is widely used for OTU picking, it is closed source and a stand-in open source replacement for it known as [vsearch](https://github.com/torognes/vsearch) has been developed. 
+
+It will be slightly easier to just use the original usearch as opposed to installing vsearch, which is what we will do here. Make sure [usearch](http://www.drive5.com/usearch/download.html) **version 6.1.554** is installed in your path (moved to /usr/bin), by requesting a download from the link above and moving the executable to `/usr/bin` and renaming it `usearch61`. Another version may cause an error. You know you have installed usearch correctly when the command "usearch61" runs. If using vsearch, rename the vsearch executable as usearch61 in /usr/bin.
+
 > **Note:** A common mistake is to forget to run `sudo chmod 777 /usr/bin/usearch` and/or `sudo chmod 777 /usr/bin/usearch61` before trying to run usearch for the first time.
 > 
+
+Next, we need to create a basic params file for the OTU picking pipeline. There are a number of params that can be included (described [here](http://qiime.org/documentation/qiime_parameters_files.html) and [here](http://qiime.org/scripts/pick_open_reference_otus.html). In our working directory, create the file params.txt and edit it to look like:
+
 ```
-pick_open_reference_otus.py -i $PWD/seqs.fna -r $PWD/97_otus.fasta -o $PWD/otu_output/ -s 0.1 -m usearch61
+pick_otus:enable_rev_strand_match       True
+```
+
+We are now ready to run the open reference OTU picking pipeline. The command to run the open reference OTU picking pipeline is below. Use \$PWD - the QIIME notes claim you need to use absolute paths here
+. 
+
+```
+pick_open_reference_otus.py -i $PWD/seqs.fna -r $PWD/97_otus.fasta -o $PWD/otu_output/ -s 0.1 -m usearch61 -p $PWD/params.txt
 ```
 
 Explaining this command: -i seqs.fna is our sequences file, -r 97_otus.fasta is the reference OTU file from Greegenes, -o otu_output/ is our output directory, and -m usearch61 is our clustering algorithm (usearch).
 
 This step has accomplished many things we used to do in QIIME with many steps in a single step: it has (1) *picked our OTUs*, (2) *generated a representative sequence for each OTU*, (3) *assigned known taxonomy to those OTUs*, (4) *created a phylogenetic tree*, and (5) *created an OTU table*. Let's now explore this output.
+
+> **Note:** I often find with high throughput, deeply sequence Illumina data, the QIIME open reference picking pipeline returns a very large number of OTUs mapped to similar taxa, many of which are singletons or otherwise low counts. By modifying the command above by adding --suppress_step4 you can cut down on the number of these taxa generated. You can also filter your OTU table to remove low-count samples with the command: `filter_otus_from_otu_table.py -i otu_table.biom -o otu_table_no_singletons.biom -n 2` where `-n` describes the minimal number of counts allowed to accept an OTU (in this case, 2, so we eliminate only singletons. Consider increasing it if you have a large number of samples). 
+> 
 
 ### The OTU Table
 
