@@ -23,6 +23,11 @@ Methods of 16S sequencing data analysis have evolved and changed rapidly over th
  - [Robust methods for differential abundance analysis in marker gene surveys](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4010126/). JN Paulson, 2013.
  - [PiCRUST](http://picrust.github.io/picrust/)
 
+### A note before we begin
+
+There's a lot of mostly well-mannered disagreement over what are the "best" methods for analyzing 16S sequencing, especially when it comes to picking OTUs. I have found that the methods below are definitely not "noise-free", especially if open reference OTU picking is run on samples with high depth with many novel OTUs. Likely the best thing to do, particularly if you have the time, is to re-analyze the same data using different pipelines and compare the quality of the results. In particular, you may also be interested in the [mothur MiSeq SOP](http://www.mothur.org/wiki/MiSeq_SOP) and the [DADA2 pipeline tutorial](http://benjjneb.github.io/dada2/R/tutorial.html).
+
+
 ## Generating Your Data
 
 For the purpose of this tutorial, we'll be using a small dataset of 10 samples of 16S Illumina sequences from microbial communities inhabiting 3 different rock/soil environments: Luna (Calcite rock), Ignimbrite rock, and Soil (SAT) environments. All sequences from these samples have been combined into a single seqs.fna FASTA file for our analysis. If you want to follow along with the tutorial, you can download this git repo using the button on Github to do so, or by running `git clone`. Example output of all of the functions run in this tutorial are included in the `tutorial_output` folder. 
@@ -36,7 +41,9 @@ The columns SampleID, BarcodeSequence, LinkerSequence, and Description are requi
 
 The initial step we will perform in our analysis is OTU-picking. There are several OTU picking strategies in QIIME, and for almost all single-experiment analyses, it would be best to use [open reference OTU picking](http://qiime.org/scripts/pick_open_reference_otus.html). OTUs are Operating Taxonomic Units, clusters of sequences that are at least X% identical, where X is generally 97%. OTUs are not a perfect method of describing the data, but are a very widely used one. "Open reference" picking will use a database of known 16S genes to create OTU clusters while also allowing for the formation of OTUs which have sequences sufficiently different from the references.
 
-> **Note:** Why do we use open-reference picking? See [Stability of operational taxonomic units: an important but neglected property for analyzing microbial diversity](http://www.microbiomejournal.com/content/3/1/20). Also check out the [QIIME page](http://qiime.org/tutorials/otu_picking.html) on OTU picking for cases in which you'd want to use closed reference OTU picking. I highly doubt that you'll be in a situation where you have to, which is mainly restricted to comparisons between difference sequencing regions.
+> **Note:** Why do we use open-reference picking here? See [Stability of operational taxonomic units: an important but neglected property for analyzing microbial diversity](http://www.microbiomejournal.com/content/3/1/20). Also check out the [QIIME page](http://qiime.org/tutorials/otu_picking.html) on OTU picking for cases in which you'd want to use closed reference OTU picking. I highly doubt that you'll be in a situation where you have to, which is mainly restricted to comparisons between difference sequencing regions.
+
+This pipeline and its implementation in QIIME are definitely not controversy free - consider reading [De novo clustering methods outperform reference-based methods for assigning 16S rRNA gene sequences to operational taxonomic units.](https://peerj.com/articles/1487/) and run a comparison of your data with the mothur average neighbor clustering algorithm. 
 > 
 
 You'll need to download the [GreenGenes](http://greengenes.secondgenome.com/) database of 16S sequences for this step, which is the database of reference 16S sequences we'll use to assign taxonomy. You'll need the file `97_otus.fasta`, which functions as a FASTA file of all reference sequences with known taxonomy. Because as of September 2015 the latest GreenGenes is from 2013 (there may be an update soon), if you are interested in specific rare taxa discovered since 2013, you may want to add 16S sequences from those organisms to the `97_otus.fasta` file manually. 
